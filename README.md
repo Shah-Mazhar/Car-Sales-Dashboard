@@ -8,7 +8,7 @@
 
 • The dashboard is interactive and the user can format the data for speific visualization.
 
-## Snapshot of the Dashboard:
+## The Dashboard:
 
 ![Snapshot of Dashboard](https://user-images.githubusercontent.com/55895245/103471322-f482d400-4d4c-11eb-8ebd-a6185c3d4e6c.png)
 
