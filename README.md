@@ -2,7 +2,7 @@
 
 ## Excel:
 
-• Created a bar, line and column chart from 4 different privot tables.
+• Created a bar, line, and column chart from 4 different privot tables.
 
 • Inserted 4 charts into a dashboard by formating with similar designs.
 
